@@ -91,6 +91,7 @@ This page compares restaurants by rating and review volume. Bayesian Score is us
 
 ![Digital Opportunity Analysis](dashboard/screenshots/04_digital_opportunity.png)
 
+
 This page identifies restaurants with digital improvement opportunities, especially restaurants that have customer demand but lack website, menu, or strong digital readiness.
 
 ## Main Insights
